@@ -23,7 +23,7 @@ Embeddings capture meaningful semantic information of words; however, interpreti
 
 ![image](https://github.com/user-attachments/assets/05e7f981-e65b-4325-bf62-9a2b6c73a3b1)
 
-It turns out that the difference between target classes are reflected in the trained embeddings. Based on the first PCA component (x-axis), we observe clear separation between the words in the life target class (associated with the theme and feeling of movies) and the other 4 classes, which are related to the technical aspects of movies, such as acting and directing. Moreover, the second component (y-axis) enables a tentative classification between the words in the writing target class and those in the acting and directing classes, particularly in Corpus 2.
+It turns out that the separation between target classes are clearly reflected in the trained embeddings. Based on the first PCA component (x-axis), we observe clear separation between the words in the life target class (associated with the theme and feeling of movies) and the other 4 classes, which are related to the technical aspects of movies, such as acting and directing. Moreover, the second component (y-axis) enables a tentative classification between the words in the writing target class and those in the acting and directing classes, particularly in Corpus 2.
 
 ## Methodology and Data
 Details of the methodology can be found in the [report](https://github.com/maggie980000/embedding-bias/blob/main/course_project_embedding_bias.pdf). 
