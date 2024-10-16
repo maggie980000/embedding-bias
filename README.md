@@ -8,8 +8,7 @@ Embeddings are numerical representations of words. Embeddings of words with simi
 
 
 ### Gender Bias 
-
-
+Word embeddings can reflect linguistic biases. For example, if the gender stereotypes exist in the training corpus, then it is natural that trained embeddings also exhibit the bias.
 In [Figure 1](https://github.com/user-attachments/assets/fd63aaab-d7c4-4434-8dcd-6c146f25b54f), I investigate the association strength, also known as embedding bias, between gender and 5 manually selected classes of target words in 3 distinct word embedding space:
 - Word embeddings trained from the Corpus 1, i.e. reviews on the movies “Tiny Times 1.0” (2013) or “Tiny Times 3.0” (2014).
 - Word embeddings trained from the Corpus 2, i.e. reviews on the movie “La La Land” (2016).
