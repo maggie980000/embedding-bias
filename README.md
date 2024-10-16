@@ -30,5 +30,5 @@ The first notable observation is that all target words align more closely with t
 -->
 
 ## Methodology and Data
-Details of the methodology can be found in the [report](https://github.com/maggie980000/embedding-bias/blob/main/course_project_embedding_bias.pdf). 
-The movie review corpora can be downloaded from [here](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/dmsc_v2/intro.ipynb).
+Details of the methodology and more analysis results can be found in the [report](https://github.com/maggie980000/embedding-bias/blob/main/course_project_embedding_bias.pdf) and the code to reproduce all results in the report can be found in this [notebook](https://github.com/maggie980000/embedding-bias/blob/main/word_embedding_notebook.ipynb).
+The original movie review corpora can be downloaded from [here](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/dmsc_v2/intro.ipynb).
