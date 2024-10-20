@@ -6,7 +6,7 @@ Embeddings are numerical representations of words. Embeddings of words with simi
 
 ### Project Motivations
 - As a data science student, I am interested in investigating the fairness of our ML methodologies and dataset. 
-- I believe in the power of Cinema Arts and Reviews in shaping social equality and encouraging collaboration. They have had a significant impact on me. 
+- I believe in the power of Cinema Arts and Reviews in shaping social equality and encouraging collaboration. Arts and culture have profoundly influenced me.
 
 This is a course project I have done at NUS. 
 
