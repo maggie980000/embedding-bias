@@ -4,6 +4,12 @@
 
 Embeddings are numerical representations of words. Embeddings of words with similar semantic meanings are associated closely to each other, since they are likely to appear together in natural language. However, word embeddings can inherit linguistic biases. For example, if the gender stereotypes exist in the corpus used to train or derive the embeddings, then it is natural that embeddings also exhibit the bias.
 
+### Project Motivations
+- As a data science student, I am interested in investigating the fairness of our ML methodologies and dataset. 
+- I believe in the power of Cinema Arts and Reviews in shaping social equality and encouraging collaboration. They have had a significant impact on me. 
+
+This is a course project I have done at NUS. 
+
 ## Findings and Graphics
 
 In [Figure 1](https://github.com/user-attachments/assets/e3fc8e81-4f4e-437c-98b7-35cbc3c25633), I investigate the association strength, also known as embedding bias, between gender and 5 manually selected classes of target words in 3 distinct word embedding space derived from 3 distinct text corpora:
